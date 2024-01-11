@@ -96,7 +96,7 @@ public class EjemploArray extends javax.swing.JFrame {
                             .addComponent(txtTercerParcial, javax.swing.GroupLayout.DEFAULT_SIZE, 173, Short.MAX_VALUE)
                             .addComponent(txtSegundoParcial)
                             .addComponent(txtPrimerParcial))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 77, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 70, Short.MAX_VALUE)
                         .addComponent(jLabel1)))
                 .addGap(49, 49, 49))
             .addGroup(layout.createSequentialGroup()
